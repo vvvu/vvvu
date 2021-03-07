@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=vvvu&hide_border=true&show_icons=true&theme=buefy">
+
 **Talking about Personal Stuffs:**
 
 - 🔭 Graduate student, Fudan University, China;
-- 🌱 I’m currently learning Anomaly detection on time series;
+- 🌱 I’m currently learning Anomaly detection;
 - 💬 Ask me about anything, I'm happy to help.
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=vvvu&hide_border=true&show_icons=true&theme=buefy">
