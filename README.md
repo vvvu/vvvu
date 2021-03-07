@@ -1,3 +1,5 @@
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=vvvu&hide_border=true&show_icons=true&theme=buefy">
+
 ### Hi there 👋, I'm Siaoyeu!
 
 <!--
@@ -14,8 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=vvvu&hide_border=true&show_icons=true&theme=buefy">
 
 **Talking about Personal Stuffs:**
 
