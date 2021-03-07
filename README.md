@@ -21,6 +21,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Anomaly detection on time series;
 - 💬 Ask me about anything, I'm happy to help.
 
-**My Github Stats:**
-
-[![vvvu's GitHub stats](https://github-readme-stats.vercel.app/api?username=vvvu)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=buefy)
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=vvvu&hide_border=true&show_icons=true&theme=buefy">
