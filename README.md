@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Siaoyeu!
 
 <!--
 **vvvu/vvvu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+**Talking about Personal Stuffs:**
+
+- 🔭 Graduate student, Fudan University, China;
+- 🌱 I’m currently learning Anomaly detection on time series;
+- 💬 Ask me about anything, I'm happy to help.
+
+**My Github Stats:**
+
+[![vvvu's GitHub stats](https://github-readme-stats.vercel.app/api?username=vvvu)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=buefy)
